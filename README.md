@@ -45,6 +45,7 @@ Entering  ```google.com;ls data``` gives us the following:
   
   <img width="411" alt="Screenshot 2022-06-16 162716" src="https://user-images.githubusercontent.com/48446307/174080334-79a87a00-4ee8-4324-a775-8a9b73a9772f.png">
 
+  4. We have found the flag{Waw_h0W_D1D_You_F1Nd_Me!?}.
   __Thank you for playing!__
 
 </details>
