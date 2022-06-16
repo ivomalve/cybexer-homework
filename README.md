@@ -9,6 +9,11 @@ In this challenge, a player must hack this vulnerable site in order to find one 
 - Basic knowledge of Linux
 - Basic knowledge of Docker
 - Install Docker and docker-compose
+```
+apt update
+apt install docker.io -y
+apt install docker-compose -y
+```
 - Basic knowledge of command injection techniques
 ## Setup
 1. Download the files in this repository.
