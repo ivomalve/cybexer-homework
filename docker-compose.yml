@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  ping_site:
+    container_name: ping_site
+    build: .
+    volumes:
+      - ./php:/var/www/html
+    ports:
+      - "80:80"
+    restart: always
+    stop_grace_period: 1s
+
